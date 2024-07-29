@@ -58,6 +58,5 @@ The 'Requirements.txt' file lists all the Python packages required to run the pr
 4) Distribution of the sentiment categories is visualised in distribution_of_sentiment_categories.png.
 
 ## Conclusion
-Conclusion
 The sentiment analysis project successfully demonstrates the application of natural language processing and machine learning techniques to classify movie reviews as positive or negative. The Multinomial Naive Bayes and Logistic Regression models both performed well, with Logistic Regression slightly outperforming in terms of accuracy.
 
