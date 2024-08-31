@@ -1,7 +1,7 @@
 # Sentiment-analysis-project
 
 ## Project Overview
-This project demonstrates sentiment analysis on the NLTK movie reviews dataset using machine learning techniques. The project includes data preprocessing, feature extraction using TF-IDF, and the implementation of two machine learning models: Multinomial Naive Bayes and Logistic Regression. The aim is to classify movie reviews as positive or negative based on their content.
+This project demonstrates sentiment analysis on the NLTK movie reviews dataset using machine learning techniques. The project includes data preprocessing, feature extraction using TF-IDF vectorisation, and the implementation of two machine learning models: Multinomial Naive Bayes and Logistic Regression. The aim is to classify movie reviews as positive or negative based on their content.
 
 ## Technologies Used
 1) Pandas
